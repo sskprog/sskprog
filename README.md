@@ -1,6 +1,6 @@
-### Hi there, I'm Stanislav Kushnir! 👋
+## Hi there, I'm Stanislav Kushnir! 👋
 
-I'm a passionate **FullStack Web Developer** with a strong background in **System Administration** and **Cybersecurity**. Before diving into programming, I spent years configuring and maintaining Windows and Linux servers, setting up web servers, internet gateways, and ensuring robust system security. This experience gave me a deep understanding of infrastructure, performance optimization, and secure development practices.
+I'm a passionate **FullStack Web Developer** with a strong background in **System Administration** and **Cybersecurity**. Before diving into programming, I spent years configuring and maintaining Windows and Linux servers, setting up web servers, internet gateways, mail servers and ensuring robust system security. This experience gave me a deep understanding of infrastructure, performance optimization, and secure development practices.
 
 Now, I focus on building modern, scalable, and user-friendly web applications. I thrive on solving complex problems and turning ideas into functional, elegant solutions. Whether it's crafting responsive UIs or designing robust APIs, I'm always eager to learn and apply new technologies.
 
@@ -19,3 +19,12 @@ Now, I focus on building modern, scalable, and user-friendly web applications. I
 - 📱 Telegram: [@sskushnir](https://t.me/sskushnir)
 
 🚀 **My motto:** *"Clean code, creative solutions, and endless curiosity – building the web, one line at a time."*
+
+## Education
+- **Northwestern Technical University** (St. Petersburg, Russia)
+  - Specialization: *"Computers and Networks. Organization and Maintenance"*
+  - Studied:
+    - Computer architecture
+    - Computer network deployment and administration
+    - Cybersecurity fundamentals
+    - Programming basics and algorithms in **C++**
