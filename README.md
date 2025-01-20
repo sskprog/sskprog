@@ -20,7 +20,7 @@ Now, I focus on building modern, scalable, and user-friendly web applications. I
 
 🚀 **My motto:** *"Clean code, creative solutions, and endless curiosity – building the web, one line at a time."*
 
-## Education
+## 🎓 Education
 - **Northwestern Technical University** (St. Petersburg, Russia)
   - Specialization: *"Computers and Networks. Organization and Maintenance"*
   - Studied:
@@ -29,7 +29,7 @@ Now, I focus on building modern, scalable, and user-friendly web applications. I
     - Cybersecurity fundamentals
     - Programming basics and algorithms in **C++**
 
-## Experience
+## 💼 Experience
 
 ### FullStack Developer at **Автоэксперт**
 - **Responsibilities:**
@@ -50,5 +50,19 @@ Now, I focus on building modern, scalable, and user-friendly web applications. I
 - **Achievements:**
   - Successfully maintained 99.9% uptime for critical systems.
   - Reduced spam emails by **99%** through the implementation of advanced filtering and security measures.
+  - Automated routine tasks, improving team efficiency by 20%.
 
+## 🚀 Projects
+
+### [oncad.ru](https://oncad.ru/)
+**A service for electrical network design engineers**
+- **Description:**
+  A web application built on **Yii2** and **VueJS** that automates engineering calculations, generates DXF schematics, and creates reports in Microsoft Word.
+  - Enables data exchange via XML files, created in Excel using a custom **VBA script** developed by me.
+  - Designed to streamline the workflow of electrical network designers, saving time and reducing errors.
+- **Achievements:**
+  - Ranked in the **top search results on Google and Yandex** for relevant queries.
+  - Actively used by professionals in the field, with positive feedback on usability and efficiency.
+
+## 🛠️ Tech Stack
 
