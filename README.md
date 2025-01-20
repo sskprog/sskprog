@@ -28,3 +28,27 @@ Now, I focus on building modern, scalable, and user-friendly web applications. I
     - Computer network deployment and administration
     - Cybersecurity fundamentals
     - Programming basics and algorithms in **C++**
+
+## Experience
+
+### FullStack Developer at **Автоэксперт**
+- **Responsibilities:**
+  - Developed and maintained the administrative part of the company's website, built on **Yii2 (Advanced template)**, as part of a team.
+  - Implemented new features to improve functionality and user experience.
+  - Fixed bugs and refactored legacy code left by previous developers.
+  - Collaborated with designers, backend developers, and project managers to deliver high-quality solutions.
+- **Achievements:**
+  - Successfully delivered multiple features on time, contributing to a **20% increase in administrative efficiency**.
+  - Improved code quality and maintainability, reducing the number of critical bugs by **40%**.
+
+### System Engineer at **EMS Russian Post**
+- **Responsibilities:**
+  - Ensured 24/7 uninterrupted operation of the infrastructure at the St. Petersburg sorting center.
+  - Configured and maintained servers (Windows/Linux), network equipment, and security systems.
+  - Monitored system performance, resolved incidents, and implemented preventive measures to avoid downtime.
+  - Collaborated with teams to optimize workflows and improve system reliability.
+- **Achievements:**
+  - Successfully maintained 99.9% uptime for critical systems.
+  - Reduced spam emails by **99%** through the implementation of advanced filtering and security measures.
+
+
